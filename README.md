@@ -5,6 +5,4 @@ A simple Telegram bot that will help you to
   - see your productivity statistics
 
 
-To find the bot: @GettingThingsDoneBot
-
   
